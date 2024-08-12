@@ -1,0 +1,94 @@
+{
+  "us_open_2023": [
+    {
+      "date": "2023-08-28",
+      "match": "Novak Djokovic vs Carlos Alcaraz",
+      "location": "Arthur Ashe Stadium",
+      "time": "19:00",
+      "final_score": "6-4, 3-6, 7-6, 6-3",
+      "rating": 9.2,
+      "reach": 15000000
+    },
+    {
+      "date": "2023-08-28",
+      "match": "Serena Williams vs Naomi Osaka",
+      "location": "Arthur Ashe Stadium",
+      "time": "15:00",
+      "final_score": "7-5, 4-6, 6-4",
+      "rating": 9.8,
+      "reach": 17000000
+    },
+    {
+      "date": "2023-08-29",
+      "match": "Rafael Nadal vs Daniil Medvedev",
+      "location": "Arthur Ashe Stadium",
+      "time": "20:00",
+      "final_score": "6-3, 6-7, 7-5, 6-2",
+      "rating": 9.5,
+      "reach": 16000000
+    },
+    {
+      "date": "2023-08-29",
+      "match": "Iga Swiatek vs Coco Gauff",
+      "location": "Louis Armstrong Stadium",
+      "time": "14:00",
+      "final_score": "6-2, 6-4",
+      "rating": 8.9,
+      "reach": 14000000
+    },
+    {
+      "date": "2023-08-30",
+      "match": "Alexander Zverev vs Stefanos Tsitsipas",
+      "location": "Arthur Ashe Stadium",
+      "time": "21:00",
+      "final_score": "6-4, 3-6, 6-3, 7-6",
+      "rating": 9.1,
+      "reach": 14500000
+    },
+    {
+      "date": "2023-08-30",
+      "match": "Ashleigh Barty vs Bianca Andreescu",
+      "location": "Louis Armstrong Stadium",
+      "time": "17:00",
+      "final_score": "7-6, 6-2",
+      "rating": 9,
+      "reach": 13500000
+    },
+    {
+      "date": "2023-08-31",
+      "match": "Roger Federer vs Andy Murray",
+      "location": "Arthur Ashe Stadium",
+      "time": "19:00",
+      "final_score": "6-2, 5-7, 6-4, 7-5",
+      "rating": 9.7,
+      "reach": 17500000
+    },
+    {
+      "date": "2023-08-31",
+      "match": "Simona Halep vs Petra Kvitova",
+      "location": "Louis Armstrong Stadium",
+      "time": "12:00",
+      "final_score": "6-4, 6-3",
+      "rating": 8.8,
+      "reach": 12000000
+    },
+    {
+      "date": "2023-09-01",
+      "match": "Dominic Thiem vs Matteo Berrettini",
+      "location": "Arthur Ashe Stadium",
+      "time": "16:00",
+      "final_score": "7-6, 7-5, 6-2",
+      "rating": 9.3,
+      "reach": 13000000
+    },
+    {
+      "date": "2023-09-01",
+      "match": "Elena Rybakina vs Garbiñe Muguruza",
+      "location": "Louis Armstrong Stadium",
+      "time": "13:00",
+      "final_score": "6-3, 6-7, 7-5",
+      "rating": 9,
+      "reach": 12500000
+    }
+  ]
+}

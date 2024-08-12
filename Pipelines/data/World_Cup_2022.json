@@ -1,0 +1,175 @@
+{
+  "matches": [
+    {
+      "date": "2022-11-21",
+      "match": "Qatar vs Ecuador",
+      "location": "Al Bayt Stadium, Al Khor",
+      "time": "19:00",
+      "final_score": "Qatar 0 - 2 Ecuador",
+      "viewer_rating": 7.5,
+      "reach_volume": 35000000
+    },
+    {
+      "date": "2022-11-22",
+      "match": "Argentina vs Saudi Arabia",
+      "location": "Lusail Iconic Stadium, Lusail",
+      "time": "13:00",
+      "final_score": "Argentina 1 - 2 Saudi Arabia",
+      "viewer_rating": 8.9,
+      "reach_volume": 60000000
+    },
+    {
+      "date": "2022-11-22",
+      "match": "France vs Australia",
+      "location": "Al Janoub Stadium, Al Wakrah",
+      "time": "22:00",
+      "final_score": "France 4 - 1 Australia",
+      "viewer_rating": 9.1,
+      "reach_volume": 42000000
+    },
+    {
+      "date": "2022-11-23",
+      "match": "Germany vs Japan",
+      "location": "Khalifa International Stadium, Al Rayyan",
+      "time": "16:00",
+      "final_score": "Germany 1 - 2 Japan",
+      "viewer_rating": 8.4,
+      "reach_volume": 55000000
+    },
+    {
+      "date": "2022-12-18",
+      "match": "Argentina vs France",
+      "location": "Lusail Iconic Stadium, Lusail",
+      "time": "18:00",
+      "final_score": "Argentina 3(4) - 3(2) France",
+      "viewer_rating": 9.8,
+      "reach_volume": 90000000
+    },
+    {
+      "date": "2022-11-21",
+      "match": "England vs Iran",
+      "location": "Khalifa International Stadium, Al Rayyan",
+      "time": "16:00",
+      "final_score": "England 6 - 2 Iran",
+      "viewer_rating": 8.3,
+      "reach_volume": 50000000
+    },
+    {
+      "date": "2022-11-22",
+      "match": "Denmark vs Tunisia",
+      "location": "Education City Stadium, Al Rayyan",
+      "time": "16:00",
+      "final_score": "Denmark 0 - 0 Tunisia",
+      "viewer_rating": 7.4,
+      "reach_volume": 32000000
+    },
+    {
+      "date": "2022-11-23",
+      "match": "Spain vs Costa Rica",
+      "location": "Al Thumama Stadium, Doha",
+      "time": "19:00",
+      "final_score": "Spain 7 - 0 Costa Rica",
+      "viewer_rating": 9.2,
+      "reach_volume": 60000000
+    },
+    {
+      "date": "2022-11-23",
+      "match": "Belgium vs Canada",
+      "location": "Ahmed bin Ali Stadium, Al Rayyan",
+      "time": "22:00",
+      "final_score": "Belgium 1 - 0 Canada",
+      "viewer_rating": 8,
+      "reach_volume": 47000000
+    },
+    {
+      "date": "2022-11-24",
+      "match": "Brazil vs Serbia",
+      "location": "Lusail Iconic Stadium, Lusail",
+      "time": "22:00",
+      "final_score": "Brazil 2 - 0 Serbia",
+      "viewer_rating": 9.4,
+      "reach_volume": 75000000
+    },
+    {
+      "date": "2022-11-25",
+      "match": "Netherlands vs Ecuador",
+      "location": "Khalifa International Stadium, Al Rayyan",
+      "time": "19:00",
+      "final_score": "Netherlands 1 - 1 Ecuador",
+      "viewer_rating": 7.8,
+      "reach_volume": 42000000
+    },
+    {
+      "date": "2022-11-26",
+      "match": "France vs Denmark",
+      "location": "Stadium 974, Doha",
+      "time": "19:00",
+      "final_score": "France 2 - 1 Denmark",
+      "viewer_rating": 9.3,
+      "reach_volume": 62000000
+    },
+    {
+      "date": "2022-11-28",
+      "match": "Portugal vs Uruguay",
+      "location": "Lusail Iconic Stadium, Lusail",
+      "time": "22:00",
+      "final_score": "Portugal 2 - 0 Uruguay",
+      "viewer_rating": 9,
+      "reach_volume": 68000000
+    },
+    {
+      "date": "2022-12-03",
+      "match": "Argentina vs Australia",
+      "location": "Ahmed bin Ali Stadium, Al Rayyan",
+      "time": "22:00",
+      "final_score": "Argentina 2 - 1 Australia",
+      "viewer_rating": 9.5,
+      "reach_volume": 72000000
+    },
+    {
+      "date": "2022-12-04",
+      "match": "France vs Poland",
+      "location": "Al Thumama Stadium, Doha",
+      "time": "18:00",
+      "final_score": "France 3 - 1 Poland",
+      "viewer_rating": 9.2,
+      "reach_volume": 65000000
+    },
+    {
+      "date": "2022-12-09",
+      "match": "Brazil vs Croatia",
+      "location": "Education City Stadium, Al Rayyan",
+      "time": "18:00",
+      "final_score": "Brazil 1(2) - 1(4) Croatia",
+      "viewer_rating": 9.7,
+      "reach_volume": 78000000
+    },
+    {
+      "date": "2022-12-10",
+      "match": "England vs France",
+      "location": "Al Bayt Stadium, Al Khor",
+      "time": "22:00",
+      "final_score": "England 1 - 2 France",
+      "viewer_rating": 9.8,
+      "reach_volume": 83000000
+    },
+    {
+      "date": "2022-12-13",
+      "match": "Argentina vs Croatia",
+      "location": "Lusail Iconic Stadium, Lusail",
+      "time": "22:00",
+      "final_score": "Argentina 3 - 0 Croatia",
+      "viewer_rating": 9.7,
+      "reach_volume": 85000000
+    },
+    {
+      "date": "2022-12-14",
+      "match": "France vs Morocco",
+      "location": "Al Bayt Stadium, Al Khor",
+      "time": "22:00",
+      "final_score": "France 2 - 0 Morocco",
+      "viewer_rating": 9.9,
+      "reach_volume": 87000000
+    }
+  ]
+}
