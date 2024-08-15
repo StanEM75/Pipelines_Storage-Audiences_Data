@@ -13,3 +13,23 @@ The objective of this project is to consolidate multiple data sources, both stru
 - **AWS**
 - **json**
 - **PostgreSQL**
+
+## 🔑 Project Workflow
+
+1. **Gather all datasources in one folder**
+- The files are in JSON, Excel, or CSV format, all gathered in the same folder : /Pipelines/data
+
+2. **Process the Data**
+- Open the files.
+- Process if needed. Main transformation includes data format, data splitting, removing columns.
+- Check the consistency of the output dataframes.
+
+3. **Export Data**
+- Export all the dataframes to CSV.
+- Store these CSV in the folder /Pipelines/Outputs.
+
+4. **Transform CSV into tables and store in the SQL Database**
+- File connect_db.py
+- Connect to the database.
+- Based on the CSV's names, give a name to the tables.
+- Transfer the CSV to the table.
